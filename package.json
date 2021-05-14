@@ -16,7 +16,9 @@
     "url": "https://github.com/jorgedcalderon/aguaviva/issues"
   },
   "homepage": "https://github.com/jorgedcalderon/aguaviva#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
   "devDependencies": {
     "node-sass": "^5.0.0"
   }
